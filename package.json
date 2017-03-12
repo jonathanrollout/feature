@@ -1,0 +1,17 @@
+{
+  "name": "untitled",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+	"test": "node node_modules/jasmine/bin/jasmine"
+  },
+  "dependencies": {
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.3"
+  },
+  "devDependencies": {
+    "jasmine": "^2.5.3",
+    "nock": "^9.0.9",
+    "uuid": "^3.0.1"
+  }
+}
